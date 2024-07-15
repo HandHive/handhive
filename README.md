@@ -45,12 +45,4 @@ https://www.canva.com/design/DAGIcnHLjF0/sts5H-ISNq4dJxZ09btoCg/edit?utm_content
 
 
 ### Project Demo Video
-# live link: https://handhive.netlify.app/
-
-
-### Snapshots
-Screenshot images of the app on how it looks on a phone
-
-
-
-
+# live link: https://handhive.netlify.app
